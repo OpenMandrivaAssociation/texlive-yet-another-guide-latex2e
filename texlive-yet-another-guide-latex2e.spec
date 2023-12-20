@@ -1,6 +1,6 @@
 Name:		texlive-yet-another-guide-latex2e
-Version:	63663
-Release:	2
+Version:	68564
+Release:	1
 Summary:	A short guide to using LaTeX2e to typeset high quality documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yet-another-guide-latex2e
