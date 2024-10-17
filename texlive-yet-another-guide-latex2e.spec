@@ -3,7 +3,7 @@ Version:	68564
 Release:	1
 Summary:	A short guide to using LaTeX2e to typeset high quality documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yet-another-guide-latex2e
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yet-another-guide-latex2e
 License:	fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yet-another-guide-latex2e.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yet-another-guide-latex2e.doc.r%{version}.tar.xz
